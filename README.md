@@ -1,4 +1,3 @@
-# Laracode
 <div align="center">
 
 <img src="assets/Laracode.png" width="400" alt="Laracode Logo">
