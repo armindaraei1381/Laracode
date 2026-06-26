@@ -1,7 +1,7 @@
 # Laracode
 <div align="center">
 
-<img src="assets/Laracode_Logo.png" width="200" alt="Laracode Logo">
+<img src="assets/Laracode.png" width="400" alt="Laracode Logo">
 
 # 🚀 Laracode
 **Your Lightweight, Native IDE for PHP & Laravel Development**
