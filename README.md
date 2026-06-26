@@ -74,4 +74,14 @@ Laracode is not just another text editor; it is a specialized, native IDE design
 4.  **Create/Open**: Use the File menu to open an existing project or create a new one!
 
 ---
-*Developed with ❤️ by Armin*
+
+## 🛠 Tech Stack
+*   **Core**: Python
+*   **GUI**: ttkbootstrap
+*   **Design**: Minimalist
+
+## 🤝 Contribution
+Laracode is an open-source project. If you have ideas, feedback, or want to report a bug, please feel free to open an issue or submit a pull request.
+
+---
+*Developed with ❤️ by Armin Daraei*
