@@ -1,7 +1,7 @@
 # Laracode
 <div align="center">
 
-<img src="assets/Laracode_Logo.png" width="200">
+<img src="assets/Laracode.png" width="200">
 
 # 🚀 Laracode
 **Your Lightweight, Native IDE for PHP & Laravel Development**
@@ -62,8 +62,8 @@ Laracode is a minimalist, native IDE designed to supercharge your Laravel develo
 
 ## 🛠 Tech Stack
 *   **Core**: Python
-*   **GUI**: Tkinter
-*   **Design**: Minimalist (One Dark Pro Inspired)
+*   **GUI**: TTKBootstrap
+*   **Design**: Minimalist
 
 ## 🤝 Contribution
 Laracode is an open-source project. If you have ideas, feedback, or want to report a bug, please feel free to open an issue or submit a pull request.
@@ -73,5 +73,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 <div align="center">
-Made with ❤️ by Armin
+Made with ❤️ by Armin Daraei
 </div>
