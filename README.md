@@ -1,17 +1,19 @@
 # Laracode
 <div align="center">
 
+<img src="assets/Laracode_Logo.png" width="200">
+
 # 🚀 Laracode
-**The Lightweight, Native IDE for PHP & Laravel Developers**
+**Your Lightweight, Native IDE for PHP & Laravel Development**
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Python](https://img.shields.io/badge/built%20with-Python-green)
 ![License](https://img.shields.io/badge/license-MIT-red)
 
----
-
 [English](#english) | [فارسی](#فارسی)
 
+---
+<img src="assets/Laracode_Screenshot.png" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </div>
 
 ---
@@ -20,20 +22,20 @@
 ## 🇺🇸 English
 
 ### 📝 About Laracode
-Laracode is a specialized IDE built to simplify the Laravel development lifecycle. While heavy IDEs often consume massive system resources, Laracode focuses on **speed, minimalism, and native performance**. It provides all the essential tools a Laravel developer needs in one clean, distraction-free environment.
+Laracode is a minimalist, native IDE designed to supercharge your Laravel development workflow. Built for developers who value performance and simplicity, it strips away the bloat of traditional IDEs while providing all the essential tools you need.
 
-### ✨ Core Features
-*   **Integrated Workflow**: A seamless experience from project scaffolding to deployment.
-*   **Smart File Explorer**: Tree-view file navigation with instant access to your Laravel directory structure.
-*   **Native Terminal**: A built-in, fast terminal that keeps you within the IDE while running `php artisan` commands or `composer` scripts.
-*   **One-Click Server**: Built-in server management to spin up your development environment instantly.
-*   **Minimalist Interface**: Inspired by the famous *One Dark Pro* theme, designed to reduce eye strain and improve coding focus.
-*   **Lightweight**: Low memory footprint, optimized for performance on any machine.
+### ✨ Key Features
+*   **Integrated Workflow**: A clean environment to manage your Laravel lifecycle from scratch.
+*   **Native Terminal**: Run `artisan`, `composer`, or shell commands directly within the IDE.
+*   **Intuitive File Explorer**: Organize and edit your project files with ease.
+*   **Server Management**: Start and stop your local development server with a single click.
+*   **One Dark Pro Inspired**: A professionally crafted dark theme to enhance focus and reduce eye strain.
+*   **High Performance**: Lightweight and optimized for fast startup and low memory usage.
 
 ### 🚀 Getting Started
-1. **Download**: Grab the latest `.exe` from the [Releases page](../../releases).
-2. **Install**: No complex installation required; simply run the executable.
-3. **Usage**: Open your Laravel project directory and start coding!
+1. **Download**: Grab the latest release from our [Releases page](../../releases).
+2. **Run**: Simply execute the file (no complex setup required).
+3. **Enjoy**: Open your project root and start building!
 
 ---
 
@@ -41,36 +43,35 @@ Laracode is a specialized IDE built to simplify the Laravel development lifecycl
 ## 🇮🇷 فارسی
 
 ### 📝 درباره لاراکد
-لاراکد (Laracode) یک محیط توسعه (IDE) تخصصی است که برای ساده‌سازی چرخه توسعه لاراول طراحی شده است. برخلاف IDEهای سنگین که منابع سیستم شما را اشغال می‌کنند، لاراکد بر روی **سرعت، مینیمالیسم و کارایی بومی** تمرکز دارد. این ابزار تمام ابزارهای حیاتی یک توسعه‌دهنده لاراول را در یک محیط یکپارچه و به دور از پیچیدگی‌های غیرضروری ارائه می‌دهد.
+لاراکد (Laracode) یک IDE بومی و مینیمال است که با هدف افزایش سرعت و بهره‌وری در توسعه پروژه‌های لاراول طراحی شده است. ما معتقدیم توسعه‌دهنده باید بر روی کدنویسی تمرکز کند، نه درگیر شدن با تنظیمات پیچیده و سنگینِ محیط‌های توسعه.
 
 ### ✨ ویژگی‌های کلیدی
-*   **گردش کار یکپارچه**: تجربه ای بی‌نقص از ایجاد پروژه تا توسعه نهایی.
-*   **فایل اکسپلورر هوشمند**: مدیریت آسان فایل‌ها با نمایش درختی و دسترسی سریع به ساختار پوشه‌های لاراول.
-*   **ترمینال بومی**: ترمینال داخلی و سریع برای اجرای دستورات `php artisan` و اسکریپت‌های `composer` بدون خروج از محیط IDE.
-*   **راه‌اندازی سرور با یک کلیک**: مدیریت و اجرای سرور لوکال تنها با یک کلیک.
-*   **رابط کاربری مینیمال**: الهام گرفته از تم محبوب *One Dark Pro*، طراحی شده برای کاهش خستگی چشم و افزایش تمرکز.
-*   **سبک و سریع**: مصرف حداقل منابع سیستم، بهینه‌شده برای اجرا روی هر نوع سخت‌افزاری.
+*   **گردش کار یکپارچه**: ابزاری جامع برای مدیریت صفر تا صد پروژه‌های لاراول.
+*   **ترمینال بومی**: اجرای دستورات `artisan` و `composer` در محیطی یکپارچه.
+*   **فایل اکسپلورر حرفه‌ای**: مدیریت ساختار پروژه با دسترسی سریع و آسان.
+*   **مدیریت سرور**: راه‌اندازی سرور لوکال با یک کلیک.
+*   **تم One Dark Pro**: طراحی چشم‌نواز و استاندارد برای محیط‌های برنامه‌نویسی.
+*   **سبک و پرسرعت**: بهینه‌سازی شده برای اجرا روی سخت‌افزارهای مختلف بدون اشغال منابع سیستم.
 
 ### 🚀 راهنمای شروع
-۱. **دانلود**: آخرین نسخه `.exe` را از بخش [Releases](../../releases) دریافت کنید.
-۲. **اجرا**: نیازی به نصب پیچیده نیست؛ کافیست فایل اجرایی را باز کنید.
-۳. **شروع کار**: پوشه پروژه لاراول خود را انتخاب کنید و شروع به کدنویسی کنید!
+۱. **دانلود**: آخرین نسخه را از بخش [Releases](../../releases) دریافت کنید.
+۲. **اجرا**: بدون نیاز به نصب یا تنظیمات خاص، فایل اجرایی را باز کنید.
+۳. **کدنویسی**: پوشه پروژه خود را انتخاب کرده و توسعه را شروع کنید!
 
 ---
 
 ## 🛠 Tech Stack
 *   **Core**: Python
 *   **GUI**: Tkinter
-*   **Theme**: Inspired by One Dark Pro
-*   **Platform**: Windows Native
+*   **Design**: Minimalist (One Dark Pro Inspired)
 
-## 🤝 Contributing
-Laracode is an ongoing project. Contributions, feature requests, and bug reports are welcome! Feel free to open an issue or submit a pull request.
+## 🤝 Contribution
+Laracode is an open-source project. If you have ideas, feedback, or want to report a bug, please feel free to open an issue or submit a pull request.
 
 ## 📄 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ---
 <div align="center">
-Developed with ❤️ by Armin
+Made with ❤️ by Armin
 </div>
