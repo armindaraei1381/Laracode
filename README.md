@@ -28,6 +28,11 @@
 ### 📝 About Laracode
 Laracode is not just another text editor; it is a specialized, native IDE designed to streamline the Laravel development lifecycle. While massive IDEs consume gigabytes of RAM and take forever to load, Laracode focuses on **speed, minimalism, and focus**. Whether you are scaffolding a new project, running artisan commands, or managing your local server, Laracode puts the tools you need right at your fingertips without the bloat.
 
+## Article
+
+Read the full story behind Laracode on Dev.to:  
+[From Idea to IDE: Building Laracode](https://dev.to/armindaraei/from-idea-to-ide-building-laracode-a-minimalist-phplaravel-ide-with-python-ttkbootstrap-1gkp)
+
 ### ⚠️ Critical Prerequisites
 **Laracode relies on your local environment to perform Laravel tasks.** Before using the IDE, ensure your system meets the following requirements:
 *   **PHP Installed**: Laracode executes PHP scripts to manage your projects.
@@ -49,6 +54,11 @@ Laracode is not just another text editor; it is a specialized, native IDE design
 
 ### 📝 درباره لاراکد
 لاراکد (Laracode) فراتر از یک ویرایشگر متن ساده است؛ این یک محیط توسعه (IDE) اختصاصی و بومی است که با هدف بهینه‌سازی چرخه توسعه پروژه‌های لاراول ساخته شده است. برخلاف IDEهای سنگین که منابع سیستم شما را به شدت اشغال می‌کنند، لاراکد بر روی **سرعت، سادگی و تمرکز** بنا شده است. لاراکد تمامی ابزارهای مورد نیاز شما را در یک محیط یکپارچه ارائه می‌دهد تا بدون درگیر شدن با پیچیدگی‌های ابزارهای حجیم، بر روی کدنویسی خود تمرکز کنید.
+
+## مقاله
+
+داستان کامل ساخت Laracode را در Dev.to بخوانید:  
+[From Idea to IDE: Building Laracode](https://dev.to/armindaraei/from-idea-to-ide-building-laracode-a-minimalist-phplaravel-ide-with-python-ttkbootstrap-1gkp)
 
 ### ⚠️ پیش‌نیازهای حیاتی (حتماً مطالعه کنید)
 **لاراکد برای انجام وظایف خود به محیط سیستم‌عامل شما وابسته است.** قبل از استفاده از نرم‌افزار، حتماً موارد زیر را روی سیستم خود نصب کرده باشید:
